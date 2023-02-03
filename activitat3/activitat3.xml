@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Codi en XML-->
+<?xml-stylesheet type="text/xsl" href="act3.xsl"?><!--Enllaç
+per per xsl-->
+<empresa><!--Root-->
+    <empleats><!--Fill-->
+        <nom>Juan Carlos</nom><!--Nom-->
+        <cognom>Acosta</cognom><!--Cognom-->
+        <nacionalitat>Espanya</nacionalitat><!--Nacionalitat-->
+        <antiguitat>3 anys</antiguitat><!--Antigüitat-->
+        <ciutat>Madrid</ciutat><!--Ciutat-->
+        <naixement>1998</naixement><!--Naixement-->
+    </empleats>
+    <empleats>
+        <nom>Felipe</nom>
+        <cognom>Sandoval</cognom>
+        <nacionalitat>España</nacionalitat>
+        <antiguitat>5 anys</antiguitat>
+        <ciutat>Barcelona</ciutat>
+        <naixement>1996</naixement>
+    </empleats>
+    <empleats>
+        <nom>Thomas</nom>
+        <cognom>Smith</cognom>
+        <nacionalitat>EEUU</nacionalitat>
+        <antiguitat>2 anys</antiguitat>
+        <ciutat>Michigan</ciutat>
+        <naixement>1996</naixement>
+    </empleats>
+    <empleats>
+        <nom>Cristina</nom>
+        <cognom>Rivera</cognom>
+        <nacionalitat>España</nacionalitat>
+        <antiguitat>4 anys</antiguitat>
+        <ciutat>València</ciutat>
+        <naixement>1995</naixement>
+    </empleats>
+    <empleats>
+        <nom>Luis David</nom>
+        <cognom>Martínez</cognom>
+        <nacionalitat>Costa rica</nacionalitat>
+        <antiguitat>2 anys</antiguitat>
+        <ciutat>San José</ciutat>
+        <naixement>1993</naixement>
+    </empleats>
+    <empleats>
+        <nom>John</nom>
+        <cognom>Berth</cognom>
+        <nacionalitat>Inglaterra</nacionalitat>
+        <antiguitat>4 anys</antiguitat>
+        <ciutat>London</ciutat>
+        <naixement>1999</naixement>
+    </empleats>
+    <empleats>
+        <nom>Iván</nom>
+        <cognom>Morillo</cognom>
+        <nacionalitat>España</nacionalitat>
+        <antiguitat>3 anys</antiguitat>
+        <ciutat>Madrid</ciutat>
+        <naixement>1998</naixement>
+    </empleats>
+</empresa>
