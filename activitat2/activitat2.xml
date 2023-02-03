@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- Codi en XMl-->
+<?xml-stylesheet type="text/xsl" href="act2.xsl"?><!--Enllaç per xsl-->
+<biblioteca>
+    <llibre>
+        <titol>Cada día cuenta</titol><!--Títol-->
+        <autor>Yauci Manuel Férnandez</autor><!--Autor-->
+    </llibre>
+    <llibre>
+        <titol>Saga Ángeles Caídos</titol>
+        <autor>Cristina Pujadas</autor>
+    </llibre>
+    <llibre>
+        <titol>Todo Por Ti</titol>
+        <autor>Layla Hagen</autor>
+    </llibre>
+    <llibre>
+        <titol>Todo Arde</titol>
+        <autor>Juan Gómez Jurado</autor>
+    </llibre>
+</biblioteca>
